@@ -1,0 +1,6 @@
+Fiz alterações:
+- ao pressionar Enter no input a frase escrita é importada para a lista da mesma maneira que o botão adicionar
+
+- tive que realizar algumas alterações no router devido a atualizações do react-router-dom que fizeram a versão do video não funcionar mais.
+
+- Tive que realizar alterações no useHistory pois o mesmo não está mais disponivel na nova versão do react-router-dom, troquei o mesmo por useNavaigate
